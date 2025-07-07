@@ -1,0 +1,269 @@
+.depth-frame-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 12px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.depth-frame-wrapper .depth-frame-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dbe0e5;
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.depth-frame-wrapper .depth-frame-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.depth-frame-wrapper .depth-frame-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.depth-frame-wrapper .depth-frame-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.depth-frame-wrapper .depth-frame-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 16px;
+  position: relative;
+  width: 85px;
+}
+
+.depth-frame-wrapper .text-wrapper-3 {
+  align-self: stretch;
+  color: #111416;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: -19.00px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.depth-frame-wrapper .depth-frame-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 16px;
+  position: relative;
+  width: 328px;
+}
+
+.depth-frame-wrapper .text-wrapper-4 {
+  align-self: stretch;
+  color: #111416;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.depth-frame-wrapper .depth-frame-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 16px;
+  position: relative;
+  width: 311px;
+}
+
+.depth-frame-wrapper .depth-frame-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 16px;
+  position: relative;
+  width: 202px;
+}
+
+.depth-frame-wrapper .text-wrapper-5 {
+  align-self: stretch;
+  color: #607289;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.depth-frame-wrapper .depth-frame-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-color: #e5e8ea;
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  height: 72px;
+  position: relative;
+  width: 100%;
+}
+
+.depth-frame-wrapper .depth-frame-11 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 72px;
+  justify-content: center;
+  margin-bottom: -1.00px;
+  padding: 8px 16px;
+  position: relative;
+  width: 85px;
+}
+
+.depth-frame-wrapper .depth-frame-12 {
+  background: url(https://c.animaapp.com/mct5t1z6y6U5Cx/img/depth-10--frame-0.png)
+    50% 50% / cover;
+  border-radius: 20px;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.depth-frame-wrapper .depth-frame-13 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 72px;
+  justify-content: center;
+  margin-bottom: -1.00px;
+  padding: 8px 16px;
+  position: relative;
+  width: 328px;
+}
+
+.depth-frame-wrapper .text-wrapper-6 {
+  align-self: stretch;
+  color: #111416;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: relative;
+}
+
+.depth-frame-wrapper .depth-frame-14 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 72px;
+  justify-content: center;
+  margin-bottom: -1.00px;
+  padding: 8px 16px;
+  position: relative;
+  width: 311px;
+}
+
+.depth-frame-wrapper .text-wrapper-7 {
+  align-self: stretch;
+  color: #607289;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: relative;
+}
+
+.depth-frame-wrapper .depth-frame-15 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 72px;
+  justify-content: center;
+  margin-bottom: -1.00px;
+  padding: 8px 16px;
+  position: relative;
+  width: 202px;
+}
+
+.depth-frame-wrapper .text-wrapper-8 {
+  align-self: stretch;
+  color: #607289;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: relative;
+}
+
+.depth-frame-wrapper .depth-frame-16 {
+  background: url(https://c.animaapp.com/mct5t1z6y6U5Cx/img/depth-10--frame-0-1.png)
+    50% 50% / cover;
+  border-radius: 20px;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.depth-frame-wrapper .depth-frame-17 {
+  background: url(https://c.animaapp.com/mct5t1z6y6U5Cx/img/depth-10--frame-0-2.png)
+    50% 50% / cover;
+  border-radius: 20px;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.depth-frame-wrapper .depth-frame-18 {
+  background: url(https://c.animaapp.com/mct5t1z6y6U5Cx/img/depth-10--frame-0-3.png)
+    50% 50% / cover;
+  border-radius: 20px;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.depth-frame-wrapper .depth-frame-19 {
+  background: url(https://c.animaapp.com/mct5t1z6y6U5Cx/img/depth-10--frame-0-4.png)
+    50% 50% / cover;
+  border-radius: 20px;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}

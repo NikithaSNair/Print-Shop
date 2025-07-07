@@ -1,0 +1,1 @@
+export { DepthFrameWrapper } from "./DepthFrameWrapper";
